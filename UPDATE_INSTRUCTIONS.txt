@@ -1,0 +1,14 @@
+AUTOCONNECT - DRIVER PEAK HOURS DISPLAY
+
+Replace ONLY:
+  frontend/src/pages/DriverDashboard.jsx
+
+This update adds an informational panel to the existing working driver dashboard:
+- Morning college-student peak: around 9:00 AM
+- Afternoon college-student peak: around 3:00 PM
+
+It does not change API calls, authentication, auto registration, seat updates,
+availability, location sharing, backend files, or the database. The times are
+labelled as indicative periods, not guaranteed schedules.
+
+Keep a copy of your current DriverDashboard.jsx before replacing it.

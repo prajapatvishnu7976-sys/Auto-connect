@@ -1,0 +1,28 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Node packages
+node_modules/
+
+# Build output
+dist/
+
+# Secrets and configuration
+.env
+
+# Database file (created at runtime)
+backend/database/*.db
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+# Secrets and local data
+.env
+*.db
+*.db-wal
+*.db-shm
+.venv/
+__pycache__/
